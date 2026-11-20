@@ -1,0 +1,7 @@
+name = "daniel-burden-portfolio"
+compatibility_date = "2026-11-20"
+pages_build_output_dir = "./public"
+
+# Configure D1 binding "DB" and optional R2 binding "MEDIA"
+# in your Cloudflare Pages project settings, as described in README.md.
+# This avoids putting account-specific database IDs in the source project.
